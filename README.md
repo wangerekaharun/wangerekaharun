@@ -15,13 +15,13 @@ I am very passionate about giving back to the community and share the knowledge 
 
 ## TECHNICAL ARTICLES
 
-- [A Day with an Elephant in the Room: Configuring Gradle Plugins.]() 
-- [What's New in Android #2.] 
-- [Kotlin One Year After - Lessons Learnt]
-- [What's New in Android #1]
-- [Android Paging Library With Kotlin Coroutine]()
-- [Building the DroidconKE app]
-- [Android Background Services]
-- [Are you Productive or Just Busy]
+- [A Day with an Elephant in the Room: Configuring Gradle Plugins.](https://medium.com/@harunwangereka/a-day-with-an-elephant-in-the-room-configuring-gradle-plugins-3331b0be64c7) 
+- [What's New in Android #2.](https://medium.com/@harunwangereka/whats-new-in-android-2-a-ton-of-updates-ba4f2804890c)  
+- [Kotlin One Year After - Lessons Learnt](https://medium.com/@harunwangereka/kotlin-one-year-after-lessons-learnt-1a9f0822f53c) 
+- [What's New in Android #1](https://medium.com/@harunwangereka/whats-new-in-android-a-technical-approach-bdb13d0a3ce) 
+- [Android Paging Library With Kotlin Coroutine](https://medium.com/@harunwangereka/android-paging-library-with-kotlin-coroutines-b96602e3fae3) 
+- [Building the DroidconKE app](https://medium.com/@harunwangereka/building-droidconke-android-app-5f91c406faac) 
+- [Android Background Services](https://medium.com/@harunwangereka/android-background-services-b5aac6be3f04) 
+- [Are you Productive or Just Busy](https://medium.com/@harunwangereka/are-you-productive-or-just-busy-69abecebf043) 
 
 
