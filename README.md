@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
-- Android254, Kotlin Kenya Meetups, and droidconKE. 
+- Android254, Kotlin Kenya Meetups, Kotlin Everywhere and droidconKE. 
 - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
 - Apps:Lab Tech Tours across over 6 universities in Kenya. 
 - GeeksTalkThursday  
