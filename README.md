@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Am Harun Wangereka, an Android Developer who is passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
+
 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
 - Android254, Kotlin Kenya Meetups, Kotlin Everywhere and droidconKE. 
 - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
@@ -31,5 +33,8 @@ I am very passionate about giving back to the community and share the knowledge 
 - [Building the DroidconKE app](https://medium.com/@harunwangereka/building-droidconke-android-app-5f91c406faac) 
 - [Android Background Services](https://medium.com/@harunwangereka/android-background-services-b5aac6be3f04) 
 - [Are you Productive or Just Busy](https://medium.com/@harunwangereka/are-you-productive-or-just-busy-69abecebf043) 
+
+### My Journey
+I am honored to have my journey as an Android Developer featured in [Built In Africa](https://www.builtinafrica.io/). It was amazing doing an interview with [Nathan Hastings-Spaine](https://www.linkedin.com/in/nathanhs/) have the team write down my journey. Read the full story [here](https://www.builtinafrica.io/blog-post/harun-wangereka-appslab).
 
 
