@@ -22,9 +22,10 @@ I am very passionate about giving back to the community and share the knowledge 
 - [Beyond the Basics with Sealed Classes](https://www.raywenderlich.com/7547739-kotlin-and-android-beyond-the-basics-with-sealed-classes)
 - [Paging Library for Android With Kotlin: Creating Infinite Lists](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists)
 - [Deep Links in Android: Getting Started](https://www.raywenderlich.com/18330247-deep-links-in-android-getting-started)
+- [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
 
 #### Medium
-
+- [Technical Writing: How Do I Get Better at it?](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38)
 - [A Day with an Elephant in the Room: Configuring Gradle Plugins.](https://medium.com/@harunwangereka/a-day-with-an-elephant-in-the-room-configuring-gradle-plugins-3331b0be64c7) 
 - [What's New in Android #2.](https://medium.com/@harunwangereka/whats-new-in-android-2-a-ton-of-updates-ba4f2804890c)  
 - [Kotlin One Year After - Lessons Learnt](https://medium.com/@harunwangereka/kotlin-one-year-after-lessons-learnt-1a9f0822f53c) 
