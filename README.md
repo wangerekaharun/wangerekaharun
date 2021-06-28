@@ -19,6 +19,7 @@ I am very passionate about giving back to the community and share the knowledge 
 
 #### [Stream](https://getstream.io/)
 - [All About Reactions with the Stream Chat Android SDK](https://getstream.io/blog/android-sdk-reactions/)
+- [Location Sharing With Custom Attachments on Android](https://getstream.io/blog/android-location-sharing/)
 
 #### [raywenderlich.com](https://www.raywenderlich.com/)
 - [Database Views with Room For Android](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)
