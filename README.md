@@ -27,6 +27,7 @@ I am very passionate about giving back to the community and share the knowledge 
 - [Paging Library for Android With Kotlin: Creating Infinite Lists](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists)
 - [Deep Links in Android: Getting Started](https://www.raywenderlich.com/18330247-deep-links-in-android-getting-started)
 - [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
+- [Intergrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
 
 #### Medium
 - [Technical Writing: How Do I Get Better at it?](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38)
