@@ -8,6 +8,17 @@ I am very passionate about giving back to the community and share the knowledge 
 - Apps:Lab Tech Tours across over 6 universities in Kenya. 
 - GeeksTalkThursday  
 
+
+### Book Author,[Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
+
+Really excited and proud to share my first book, Saving Data in Android, Second Edition. It was an honor to work on the Second Edition with amazing people at raywenderlich.com. 
+With great co-authors, editions, and the raywenderlich.com team.
+ 
+If you've been looking for ways you can save data on Android, this is your book as it covers everything you need to know about saving data both locally and remotely.
+
+ 
+Looking for ways you can save data on Android? This is your book as it covers everything you need to know about saving data both locally and remotely.
+
 ### YouTube Presentation Videos
 
 - [Releasing Apps on Playstore](https://youtu.be/ajWQmWxT5kc) 
