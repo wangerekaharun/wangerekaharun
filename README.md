@@ -31,6 +31,8 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 #### [Stream](https://getstream.io/)
 - [All About Reactions with the Stream Chat Android SDK](https://getstream.io/blog/android-sdk-reactions/)
 - [Location Sharing With Custom Attachments on Android](https://getstream.io/blog/android-location-sharing/)
+- [Sending Custom Chat Attachments With Jetpack Compose](https://getstream.io/blog/custom-attachments-jetpack-compose/)
+- [Customizing the Compose Chat SDK with ChatTheme](https://getstream.io/blog/compose-chat-chattheme/)
 
 #### [raywenderlich.com](https://www.raywenderlich.com/)
 - [Database Views with Room For Android](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)
@@ -39,6 +41,7 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 - [Deep Links in Android: Getting Started](https://www.raywenderlich.com/18330247-deep-links-in-android-getting-started)
 - [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
 - [Intergrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
+- [Android App Bundles: Play Feature Delivery](https://www.raywenderlich.com/27947850-android-app-bundles-play-feature-delivery)
 
 #### Medium
 - [Technical Writing: How Do I Get Better at it?](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38)
