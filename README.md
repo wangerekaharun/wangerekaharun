@@ -19,6 +19,9 @@ If you've been looking for ways you can save data on Android, this is your book 
  
 Looking for ways you can save data on Android? This is your book as it covers everything you need to know about saving data both locally and remotely.
 
+### Video Courses
+- [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
+
 ### YouTube Presentation Videos
 
 - [Releasing Apps on Playstore](https://youtu.be/ajWQmWxT5kc) 
