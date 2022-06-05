@@ -45,6 +45,7 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 - [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
 - [Intergrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
 - [Android App Bundles: Play Feature Delivery](https://www.raywenderlich.com/27947850-android-app-bundles-play-feature-delivery)
+- [Material You in Jetpack Compose](https://www.raywenderlich.com/32081822-material-you-in-jetpack-compose)
 
 #### Medium
 - [Technical Writing: How Do I Get Better at it?](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38)
