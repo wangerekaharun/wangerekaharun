@@ -65,7 +65,8 @@ I am honored to have my journey as an Android Developer featured in [Built In Af
 Excited to be featured in the #DevJourney series by Google developers. Read the #DevJourney November issue to learn more:
 [Dev Journey](https://developers.googleblog.com/2022/10/developer-journey-november22.html).
 
-![Uploading FhOyqtIWIAIZh3Y.jpg…]()
+
+![FhOyqtIWIAIZh3Y](https://user-images.githubusercontent.com/15122455/207302185-ac9700ff-1ae8-45e5-921a-c8d75a79479b.jpg)
 
 
 
