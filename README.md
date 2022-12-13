@@ -61,4 +61,12 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 ### My Journey
 I am honored to have my journey as an Android Developer featured in [Built In Africa](https://www.builtinafrica.io/). It was amazing doing an interview with [Nathan Hastings-Spaine](https://www.linkedin.com/in/nathanhs/) have the team write down my journey. Read the full story [here](https://www.builtinafrica.io/blog-post/harun-wangereka-appslab).
 
+## Google Developer Journey: November 2022
+Excited to be featured in the #DevJourney series by Google developers. Read the #DevJourney November issue to learn more:
+[Dev Journey](https://developers.googleblog.com/2022/10/developer-journey-november22.html).
+
+![Uploading FhOyqtIWIAIZh3Y.jpg…]()
+
+
+
 
