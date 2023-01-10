@@ -38,7 +38,7 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 - [Sending Custom Chat Attachments With Jetpack Compose](https://getstream.io/blog/custom-attachments-jetpack-compose/)
 - [Customizing the Compose Chat SDK with ChatTheme](https://getstream.io/blog/compose-chat-chattheme/)
 
-#### [Kodeco (Previously raywenderlich.com)]([https://www.raywenderlich.com/](https://www.kodeco.com/home)
+#### [Kodeco (Previously raywenderlich.com)](https://www.kodeco.com/home)
 - [Database Views with Room For Android](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)
 - [Beyond the Basics with Sealed Classes](https://www.raywenderlich.com/7547739-kotlin-and-android-beyond-the-basics-with-sealed-classes)
 - [Paging Library for Android With Kotlin: Creating Infinite Lists](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists)
