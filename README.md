@@ -7,6 +7,7 @@ I am very passionate about giving back to the community and share the knowledge 
 - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
 - Apps:Lab Tech Tours across over 6 universities in Kenya. 
 - GeeksTalkThursday  
+- Io Exnded events across various GDGs across the world.
 
 
 ### Book Author, [Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
