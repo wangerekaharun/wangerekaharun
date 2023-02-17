@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
+## Hi there 👋
 
-Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
+- 🤖 Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
 
-Currently, I'm working at (Apollo Agriculture)[https://www.apolloagriculture.com] In this role, we’re helping Apollo Agriculture make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
+- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture]9https://www.apolloagriculture.com) In this role, we’re helping Apollo Agriculture make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
 
-I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
+- 🚀 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
 
    - Android254, Kotlin Kenya Meetups, Kotlin Everywhere and droidconKE. 
    - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
@@ -12,7 +12,30 @@ I am very passionate about giving back to the community and share the knowledge 
    - GeeksTalkThursday  
    - Io Exnded events across various GDGs across the world.
 
-### Technologies
+Let's connect here:
+
+<p align="left">
+  <a href="https://twitter.com/wangerekaharun">
+    <img src="https://img.shields.io/twitter/follow/wangerekaharun?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
+  </a>
+  <a href="https://github.com/wangerekaharun/wangerekaharun">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
+  </a>
+ 
+  <a href="https://github.com/wangerekaharun?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wangerekaharun?color=green&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/harun-wangereka-442b37b9/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@harunwangereka">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-medium-blue">
+  </a>
+</p>
+
+
+
+## ⚡️ Technologies
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
 
@@ -38,7 +61,7 @@ If you've been looking for ways you can save data on Android, this is your book 
  
 Looking for ways you can save data on Android? This is your book as it covers everything you need to know about saving data both locally and remotely.
 
-### Video Courses
+### 🎥 Video Courses
 - [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
 
 ### YouTube Presentation Videos
@@ -48,7 +71,7 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 - [Understanding Relationships in Room #1](https://youtu.be/Ocw-G7Cmp9A) 
 - [Understanding Relationships in Room #2](https://youtu.be/MZkGzs7r088) 
 
-### Technical Articles
+### 🔖 Technical Articles
 
 #### [Stream](https://getstream.io/)
 - [All About Reactions with the Stream Chat Android SDK](https://getstream.io/blog/android-sdk-reactions/)
@@ -78,10 +101,10 @@ Looking for ways you can save data on Android? This is your book as it covers ev
 - [Android Background Services](https://medium.com/@harunwangereka/android-background-services-b5aac6be3f04) 
 - [Are you Productive or Just Busy](https://medium.com/@harunwangereka/are-you-productive-or-just-busy-69abecebf043) 
 
-### My Journey
+### ⚡️ My Journey
 I am honored to have my journey as an Android Developer featured in [Built In Africa](https://www.builtinafrica.io/). It was amazing doing an interview with [Nathan Hastings-Spaine](https://www.linkedin.com/in/nathanhs/) have the team write down my journey. Read the full story [here](https://www.builtinafrica.io/blog-post/harun-wangereka-appslab).
 
-## Google Developer Journey: November 2022
+## 🚀 Google Developer Journey: November 2022
 Excited to be featured in the #DevJourney series by Google developers. Read the #DevJourney November issue to learn more:
 [Dev Journey](https://developers.googleblog.com/2022/10/developer-journey-november22.html).
 
