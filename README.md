@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
 - Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
 
@@ -11,6 +11,19 @@
  - GeeksTalkThursday  
  - Io Exnded events across various GDGs across the world.
 
+### Technologies
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
+
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangerekaharun&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangerekaharun" />
+</a>
+
+<br>
 
 ### Book Author, [Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
 
