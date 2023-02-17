@@ -2,7 +2,7 @@
 
 - 🤖 Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
 
-- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture]9https://www.apolloagriculture.com) In this role, we’re helping Apollo Agriculture make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
+- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we’re helping Apollo Agriculture make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
 
 - 🚀 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
 
