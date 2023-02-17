@@ -19,7 +19,7 @@ Let's connect here:
     <img src="https://img.shields.io/twitter/follow/wangerekaharun?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/wangerekaharun/wangerekaharun">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wangerekaharun.wangerekaharun" alt="page views" />
   </a>
  
   <a href="https://github.com/wangerekaharun?tab=followers">
