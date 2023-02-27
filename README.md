@@ -51,6 +51,10 @@ Let's connect here:
 
 ## My Work
 
+## Recent Work
+- [A deep dive and building an outstanding career in mobile applications development.] (https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development.
+
+
 ### Book Author, [Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
 
 Really excited and proud to share my first book, Saving Data in Android, Second Edition. It was an honor to work on the Second Edition with amazing people at raywenderlich.com. 
