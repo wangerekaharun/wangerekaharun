@@ -115,5 +115,8 @@ Excited to be featured in the #DevJourney series by Google developers. Read the 
 ![FhOyqtIWIAIZh3Y](https://user-images.githubusercontent.com/15122455/207302185-ac9700ff-1ae8-45e5-921a-c8d75a79479b.jpg)
 
 
+## 🚀 Google Developer Journey: Women Tech Makers & Google Devs February 2022
 
+- [WomenTechMakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)
+- [Google Devs](https://twitter.com/googledevs/status/1630659124978393101)
 
