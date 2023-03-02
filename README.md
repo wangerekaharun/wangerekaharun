@@ -50,7 +50,7 @@ Let's connect here:
 <br>
 
 ## Recent Work
-- [A deep dive and building an outstanding career in mobile applications development.] (https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development.
+- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development.
 
 ## Older Contributions
 
