@@ -50,7 +50,10 @@ Let's connect here:
 <br>
 
 ## Recent Work
-- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development.
+- [Getting Started and Growing as an Android Developer](https://speakerdeck.com/wangerekaharun/getting-started-and-growing-as-an-android-developer). In this session hosted by Google Developer Student Clun USIU,I talked about how to grow yourself as an android developer and shared tips from my experience in interviews, and general career growth. I shared the roadmap for Android Development in 2023 highlighting some key Jetpack Libraries as well. I shared about the GDE program and what people can do to join.
+- [Jetpack Compose: Display Lists and use Material Design 3](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-jetpack-compose-display-lists-and-use-of-material-design/) In this session hosted by Google Developer Student Club Kabarak University, I walked the attendees through how to create lists using Jetpack Compose using the Lazy Column, LazyVerticalGrid & LazyHorizontalGrid. I covered the best practices when using lists and also talked about Material Design 3 and some of the features like the dynamic color that it has to offer.
+- [From Android Developer to Published Author: A Journey in Technical Writing](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-from-android-developer-to-published-author-a-journey-in-technical-writing/) In this session hosted by Google Developer Student Clubs - Kabarak Univerity, I shared my journey in technical writing, from my early days as an Android developer to becoming a published author. I discussed the different approaches to technical writing and offer tips on how to grow in the field, whether you're an Android developer or simply an enthusiast.
+- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications developmentat the Lux Academy Industry Experts Physical Meetup held in February 2023.
 
 ## Older Contributions
 
@@ -120,3 +123,13 @@ Excited to be featured in the #DevJourney series by Google developers. Read the 
 - [WomenTechMakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)
 - [Google Devs](https://twitter.com/googledevs/status/1630659124978393101)
 
+
+## 🚀 #TheAndroidShow by Android Devevloper team at Google
+
+Want to learn what it means to be a Google Developer Expert? Watch the #TheAndroidShow as Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez, Dinorah Tovar and I share our experiences being a GDE and what it takes to be part of the program.
+
+Really excited to have been featured in the show. Being a GDE means consistently creating content, supporting the communities, and improving your skills.
+
+Many thanks to Yasmine Evjen, Lily Sheringham, Matt, Sonia Green, and the whole team for organizing this!
+
+Watch the whole show here: https://lnkd.in/dHaN45wb
