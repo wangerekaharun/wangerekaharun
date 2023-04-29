@@ -138,3 +138,6 @@ Really excited to have been featured in the show. Being a GDE means consistently
 Many thanks to Yasmine Evjen, Lily Sheringham, Matt, Sonia Green, and the whole team for organizing this!
 
 Watch the whole show here: https://lnkd.in/dHaN45wb
+
+## 🚀 Kotlin Conf '23 Confersations
+Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersation ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
