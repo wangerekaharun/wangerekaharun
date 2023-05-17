@@ -52,6 +52,7 @@ Let's connect here:
 <br>
 
 ## Recent Work
+- [Google I/O First Impressions Livecast](https://www.kodeco.com/40076557-google-i-o-first-impressions-livecast) - Together with the Android team members at Kodeco, we gave the first impressions from Google I/O announcements. We discussed the cool announcements and things that we found interesting from the Keynote.
 - [Kotlin Conf '23 Overview](https://speakerdeck.com/wangerekaharun/kotlin-conf-23) This session was done at Android254 & Kotlin Kenya Kotlin Conf Global event, Nairobi edition on 22nd April 2023. In my presentation, I highlighted the key announcements from KotlinConf'23 and my experience attending & speaking at my first KotlinConf.
 - [SSA Students Summit 2023 | Career Panel on Android Development](https://youtu.be/fpI6P56RF6U?list=PLg9VWCOZbXgtPIG1y9rBSyuXrZPrmWdAn) It was a panel session where [Eric Ampire(Android GDE)](https://twitter.com/eric_ampire), [Beatrice Kinya](https://twitter.com/B__Kinya) and I were answering questions about android development at the first-ever SSA Students summit. 
 - [Getting Started with Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-meru-university-of-science-and-technology-presents-getting-started-with-jetpack-compose/) In this session hosted by GDSC Meru & Chuka University, I covered an introductory session to the attendees about Comose. Covering the essentials, compose layouts and modifiers. I did a demo for creating a compose project from scratch and explained the different things that are created and also went ahead to show how to create lists in compose. Dived deep into using LazyColumn, LazyVerticalGrid and LazyHorizontalGrid.
@@ -141,3 +142,10 @@ Watch the whole show here: https://lnkd.in/dHaN45wb
 
 ## 🚀 Kotlin Conf '23 Confersations
 Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersation ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
+
+## 🚀 [KotlinConf '23 - Transforming Farmer's Lives Using Android in Kenya](https://kotlinconf.com/talks/388978/)
+
+The session covered how we at Apollo Agriculture change the lives of farmers using Android. This is the story of how Apollo Agriculture relies on two Android apps, entirely written in Kotlin, are offline first, and heavily rely on Server Side Driven UI to render the UI components.
+
+I dived deeply into the challenges we face when developing apps for devices with low memory, low internet bandwidth, offline-first approach, and some of the critical lessons we've learned so far. This session shows how our server-side UI approach with Jetpack Compose works, the reasons that made us adapt this, and the implementation details of our stateful approach in building UI Components with Compose. Additionally, the session covers the tools we use to make this possible: an internal tool called "Choice Expressions" and an implementation of JsonSchema, both used to build UIs from a set of conditions.
+
