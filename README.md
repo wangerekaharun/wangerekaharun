@@ -52,6 +52,7 @@ Let's connect here:
 <br>
 
 ## Recent Work
+- [View Models, States, and Flows in Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-mount-kenya-university-presents-android-development-1/)This was a live coding session with GDSC Mount Kenya University where I did a code lab on how to use  View Models, States, and Flows in Jetpack Compose using a Login Screen app in Jetpack Compose. I shared and showed some of the recommended practices in handling state in Jetpack Compose 
 - [Google I/O First Impressions Livecast](https://www.kodeco.com/40076557-google-i-o-first-impressions-livecast) - Together with the Android team members at Kodeco, we gave the first impressions from Google I/O announcements. We discussed the cool announcements and things that we found interesting from the Keynote.
 - [Kotlin Conf '23 Overview](https://speakerdeck.com/wangerekaharun/kotlin-conf-23) This session was done at Android254 & Kotlin Kenya Kotlin Conf Global event, Nairobi edition on 22nd April 2023. In my presentation, I highlighted the key announcements from KotlinConf'23 and my experience attending & speaking at my first KotlinConf.
 - [SSA Students Summit 2023 | Career Panel on Android Development](https://youtu.be/fpI6P56RF6U?list=PLg9VWCOZbXgtPIG1y9rBSyuXrZPrmWdAn) It was a panel session where [Eric Ampire(Android GDE)](https://twitter.com/eric_ampire), [Beatrice Kinya](https://twitter.com/B__Kinya) and I were answering questions about android development at the first-ever SSA Students summit. 
