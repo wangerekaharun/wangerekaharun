@@ -52,6 +52,7 @@ Let's connect here:
 <br>
 
 ## Recent Work
+-[Now In Compose](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-google-io-extended-2023-kisumu/): This was a comprehensive workshop on Jetpack Compose focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose
 - [Balancing Technical Accuracy and Simplicity in Technical Writing](https://twitter.com/i/spaces/1YqxoAAQwpMGv?s=20) In this Twitter space hosted by [Jemimmah](https://twitter.com/kavyu_jemimah) from Technier School, I shared my journey in technical writing, the tools one needs as a technical writer, and how to balance technical accuracy and simplicity in technical writing.
 - [IndustryExpertsTalk: Technical writing 101](https://twitter.com/lux_academy/status/1681910327414251523?s=20) In this Twitter Space hosted by [Lux Tech Academy](https://twitter.com/lux_academy), I together with my fellow co-speaker [Bonnie were](https://twitter.com/The_GreatBonnie) sharing our experiences in technical writing from how to get started, and how to improve technical skills. The host, Daisy has a number of questions about technical writing and documentation which we were able to answer through the space together with questions from listeners 
 - [How to become a GDE: Making it in Tech Series](https://twitter.com/SaruniBM/status/1678405860492468226) This was a Twitter Space Hosted by [Saruni](https://twitter.com/SaruniBM) & [Charity](https://twitter.com/CharityKith) where [Hannah Olukoye(Android GDE),](https://twitter.com/hannah_omu) [Wayne Gakuo (Angular GDE)](https://twitter.com/wayne_gakuo), and I talked about the Google Developer Program, how one can become one, benefits, and our experiences being GDEs. 
@@ -60,11 +61,14 @@ Let's connect here:
 - [Kotlin Conf '23 Overview](https://speakerdeck.com/wangerekaharun/kotlin-conf-23) This session was done at Android254 & Kotlin Kenya Kotlin Conf Global event, Nairobi edition on 22nd April 2023. In my presentation, I highlighted the key announcements from KotlinConf'23 and my experience attending & speaking at my first KotlinConf.
 - [SSA Students Summit 2023 | Career Panel on Android Development](https://youtu.be/fpI6P56RF6U?list=PLg9VWCOZbXgtPIG1y9rBSyuXrZPrmWdAn) It was a panel session where [Eric Ampire(Android GDE)](https://twitter.com/eric_ampire), [Beatrice Kinya](https://twitter.com/B__Kinya) and I were answering questions about android development at the first-ever SSA Students summit. 
 - [Getting Started with Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-meru-university-of-science-and-technology-presents-getting-started-with-jetpack-compose/) In this session hosted by GDSC Meru & Chuka University, I covered an introductory session to the attendees about Comose. Covering the essentials, compose layouts and modifiers. I did a demo for creating a compose project from scratch and explained the different things that are created and also went ahead to show how to create lists in compose. Dived deep into using LazyColumn, LazyVerticalGrid and LazyHorizontalGrid.
-- [Getting Started and Growing as an Android Developer](https://speakerdeck.com/wangerekaharun/getting-started-and-growing-as-an-android-developer). In this session hosted by Google Developer Student Clun USIU,I talked about how to grow yourself as an android developer and shared tips from my experience in interviews, and general career growth. I shared the roadmap for Android Development in 2023 highlighting some key Jetpack Libraries as well. I shared about the GDE program and what people can do to join.
+- [Getting Started and Growing as an Android Developer](https://speakerdeck.com/wangerekaharun/getting-started-and-growing-as-an-android-developer). In this session hosted by Google Developer Student Clun USIU, I talked about how to grow yourself as an android developer and shared tips from my experience in interviews, and general career growth. I shared the roadmap for Android Development in 2023 highlighting some key Jetpack Libraries as well. I shared about the GDE program and what people can do to join.
 - [Jetpack Compose: Display Lists and use Material Design 3](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-jetpack-compose-display-lists-and-use-of-material-design/) In this session hosted by Google Developer Student Club Kabarak University, I walked the attendees through how to create lists using Jetpack Compose using the Lazy Column, LazyVerticalGrid & LazyHorizontalGrid. I covered the best practices when using lists and also talked about Material Design 3 and some of the features like the dynamic color that it has to offer.
-- [From Android Developer to Published Author: A Journey in Technical Writing](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-from-android-developer-to-published-author-a-journey-in-technical-writing/) In this session hosted by Google Developer Student Clubs - Kabarak Univerity, I shared my journey in technical writing, from my early days as an Android developer to becoming a published author. I discussed the different approaches to technical writing and offer tips on how to grow in the field, whether you're an Android developer or simply an enthusiast.
-- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications developmentat the Lux Academy Industry Experts Physical Meetup held in February 2023.
+- [From Android Developer to Published Author: A Journey in Technical Writing](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-from-android-developer-to-published-author-a-journey-in-technical-writing/) In this session hosted by Google Developer Student Clubs - Kabarak Univerity, I shared my journey in technical writing, from my early days as an Android developer to becoming a published author. I discussed the different approaches to technical writing and offered tips on how to grow in the field, whether you're an Android developer or simply an enthusiast.
+- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development at the Lux Academy Industry Experts Physical Meetup held in February 2023.
 
+- ### 🎥 Video Courses
+- - [Your Second Kotlin Android App](https://www.kodeco.com/38052357-your-second-kotlin-android-app): I worked on this course as the Materials Author. In this course, viewers level up their Android skills by writing a task list managing app entirely in Kotlin and Jetpack Compose. In it, they learn about Composables, LazyLayouts saving data, integrating navigation components in Compose, and Android Jetpack
+- [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
 ## Older Contributions
 
 ### Book Author, [Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
@@ -76,9 +80,6 @@ If you've been looking for ways you can save data on Android, this is your book 
 
  
 Looking for ways you can save data on Android? This is your book as it covers everything you need to know about saving data both locally and remotely.
-
-### 🎥 Video Courses
-- [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
 
 ### YouTube Presentation Videos
 
@@ -134,7 +135,7 @@ Excited to be featured in the #DevJourney series by Google developers. Read the 
 - [Google Devs](https://twitter.com/googledevs/status/1630659124978393101)
 
 
-## 🚀 #TheAndroidShow by Android Devevloper team at Google
+## 🚀 #TheAndroidShow by the Android Developer team at Google
 
 Want to learn what it means to be a Google Developer Expert? Watch the #TheAndroidShow as Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez, Dinorah Tovar and I share our experiences being a GDE and what it takes to be part of the program.
 
@@ -145,7 +146,7 @@ Many thanks to Yasmine Evjen, Lily Sheringham, Matt, Sonia Green, and the whole 
 Watch the whole show here: https://lnkd.in/dHaN45wb
 
 ## 🚀 Kotlin Conf '23 Confersations
-Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersation ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
+Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersations ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch the full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
 
 ## 🚀 [KotlinConf '23 - Transforming Farmer's Lives Using Android in Kenya](https://kotlinconf.com/talks/388978/)
 
