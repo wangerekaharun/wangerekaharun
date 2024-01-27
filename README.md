@@ -2,7 +2,7 @@
 
 - 🤖 Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
 
-- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we’re helping Apollo Agriculture make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
+- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
 
 - 👥 Currrently on the organizing committee for [Droidcon Kenya](https://droidcon.co.ke/), Leading the Speakers Team. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. Very active coomunity member now and support the current orgainizing team behind the scenes.
 
