@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- 🤖 Am Harun Wangereka, an Android Developer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles on Android and Kotlin topics.
+- 🤖 Am Harun Wangereka, an Android Engineer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
 
-- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design and ship new features for the agent's app and agro-dealers app.
+- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design, and ship new features for the agent's app and agro-dealers app.
 
-- 👥 Currrently on the organizing committee for [Droidcon Kenya](https://droidcon.co.ke/), Leading the Speakers Team. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. Very active coomunity member now and support the current orgainizing team behind the scenes.
+- 👥 Currrently on the organizing committee for [Droidcon Kenya](https://droidcon.co.ke/), Leading the Speakers Team. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. Very active community member now and supports the current organizing team behind the scenes.
 
-- 🚀 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as an Android Developer.I have given talks & sessions in the following events:
+- 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as an Android Developer. I have given talks & sessions at the following events:
 
    - Android254, Kotlin Kenya Meetups, Kotlin Everywhere and droidconKE. 
    - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
@@ -69,7 +69,7 @@ Let's connect here:
 - [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development at the Lux Academy Industry Experts Physical Meetup held in February 2023.
 
 - ### 🎥 Video Courses
-- - [Your Second Kotlin Android App](https://www.kodeco.com/38052357-your-second-kotlin-android-app): I worked on this course as the Materials Author. In this course, viewers level up their Android skills by writing a task list managing app entirely in Kotlin and Jetpack Compose. In it, they learn about Composables, LazyLayouts saving data, integrating navigation components in Compose, and Android Jetpack
+- - [Your Second Kotlin Android App](https://www.kodeco.com/38052357-your-second-kotlin-android-app): I worked on this course as the Materials Author. In this course, viewers level up their Android skills by writing a task list managing apps entirely in Kotlin and Jetpack Compose. In it, they learn about Composables, LazyLayouts saving data, integrating navigation components in Compose, and Android Jetpack
 - [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
 ## Older Contributions
 
