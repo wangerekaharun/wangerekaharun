@@ -52,6 +52,14 @@ Let's connect here:
 <br>
 
 ## Recent Work
+### Second Book, Mastering Kotlin for Android 14
+
+I’m excited to announce that Packt has published my second book, Mastering Kotlin for Android 14, and is now available for pre-order
+
+Do you want to accelerate your Android development journey by mastering the latest Kotlin techniques and libraries to build robust apps? Then this book is for you!
+
+The book is written with the best practices, this book will help you master Kotlin and use its powerful language features, libraries, tools, and APIs to elevate your Android apps.
+
 - [Now In Compose](https://www.uganda.droidcon.com/): This was a comprehensive workshop on Jetpack Compose done in Droidcon Uganda. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
 - [Devfest Nairobi Android Keynote](https://speakerdeck.com/wangerekaharun/devfest-nairobi-android-keynote): I shared my insights on the latest trends and developments in the Android ecosystem.
 - [Now In Compose](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-google-io-extended-2023-kisumu/): This was a comprehensive workshop on Jetpack Compose done in IOExtended  by GDG Kisumu. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
