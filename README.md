@@ -50,15 +50,31 @@ Let's connect here:
 </a>
 
 <br>
-
-## Recent Work
 ### Second Book, Mastering Kotlin for Android 14
 
-I’m excited to announce that Packt has published my second book, Mastering Kotlin for Android 14, and is now available for pre-order
+Exciting news! My second book, "Mastering Kotlin for Android 14," has finally been released! 🥳 It's been an incredible journey working on this project over the past year.
 
-Do you want to accelerate your Android development journey by mastering the latest Kotlin techniques and libraries to build robust apps? Then this book is for you!
+Dive into this book to discover essential features where you'll apply industry-best practices and master key skills. Explore techniques for publishing, monitoring, and enhancing app metrics on the Google Play Store. Uncover advanced debugging methods to detect leaks, inspect network calls, and explore your app's local database for comprehensive app development insights.
 
-The book is written with the best practices, this book will help you master Kotlin and use its powerful language features, libraries, tools, and APIs to elevate your Android apps.
+Here’s a glimpse of what you'll learn:
+✅ Build beautiful, responsive, and accessible UIs with Jetpack Compose.
+
+✅ Explore various app architectures and optimize them for better performance.
+
+✅ Implement unit and instrumentation tests for robust app development.
+
+✅ Learn how to publish, monitor, and improve app performance on the Google Play Store.
+
+✅ Implement CI/CD with GitHub Actions and distribute test builds using Firebase App Distribution.
+
+✅ Develop market-ready apps, implement effective testing strategies, address issues, and reach your target audience effortlessly.
+
+✅ And much more to streamline your app development journey!
+
+![3d mockup Kotlin title](https://github.com/wangerekaharun/wangerekaharun/assets/15122455/60a2b7f1-4cf4-4c24-9689-6b42d705e454)
+
+
+## Recent Work
 
 - [Now In Compose](https://www.uganda.droidcon.com/): This was a comprehensive workshop on Jetpack Compose done in Droidcon Uganda. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
 - [Devfest Nairobi Android Keynote](https://speakerdeck.com/wangerekaharun/devfest-nairobi-android-keynote): I shared my insights on the latest trends and developments in the Android ecosystem.
