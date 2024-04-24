@@ -55,7 +55,8 @@ Let's connect here:
 
 Exciting news! My second book, "Mastering Kotlin for Android 14," has finally been released! 🥳 It's been an incredible journey working on this project over the past year. Dive into this book to discover essential features where you'll apply industry-best practices and master key skills. Explore techniques for publishing, monitoring, and enhancing app metrics on the Google Play Store. Uncover advanced debugging methods to detect leaks, inspect network calls, and explore your app's local database for comprehensive app development insights.
 
-Here’s a glimpse of what you'll learn:
+Here’s a glimpse of what you'll learn: 
+
 ✅ Build beautiful, responsive, and accessible UIs with Jetpack Compose.
 
 ✅ Explore various app architectures and optimize them for better performance.
