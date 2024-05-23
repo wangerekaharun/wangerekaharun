@@ -174,7 +174,7 @@ Watch the whole show here: https://lnkd.in/dHaN45wb
 ## 🚀 Kotlin Conf '23 Confersations
 Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersations ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch the full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
 
-## 🚀 [KotlinConf '23 - Transforming Farmer's Lives Using Android in Kenya](https://kotlinconf.com/talks/388978/)
+## 🚀 [KotlinConf '23 - Transforming Farmer's Lives Using Android in Kenya](https://youtu.be/UwNQgu-il4M/)
 
 The session covered how we at Apollo Agriculture change the lives of farmers using Android. This is the story of how Apollo Agriculture relies on two Android apps, entirely written in Kotlin, are offline first, and heavily rely on Server Side Driven UI to render the UI components.
 
