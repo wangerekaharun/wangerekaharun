@@ -74,6 +74,20 @@ Here’s a glimpse of what you'll learn:
 ![3d mockup Kotlin title](https://github.com/wangerekaharun/wangerekaharun/assets/15122455/60a2b7f1-4cf4-4c24-9689-6b42d705e454)
 
 
+### Reviews of the book
+- [Beatrice Kinya](https://www.linkedin.com/posts/beatrice-kinya-93307514b_kotlin-androiddev-activity-7228473264065417216-Py0O?utm_source=share&utm_medium=member_desktop)
+- [Charles Kagiri](https://www.linkedin.com/pulse/mastering-kotlin-android-14-book-review-kagiri-charles-bttze/?trackingId=p4GPUEiUSTaDOXjXT64pJA%3D%3D)
+- [Nav Singh](https://www.linkedin.com/posts/navczydev_android-androiddev-kotlin-activity-7219906356986687488-XnBt?utm_source=share&utm_medium=member_desktop)
+- [Thomas Künneth](https://www.linkedin.com/pulse/book-review-mastering-kotlin-android-14-thomas-k%C3%BCnneth-lbttc/?trackingId=dedZhU9fQhi3Jk7x7iRckw%3D%3D)
+- [Nav Singh](https://www.linkedin.com/posts/navczydev_developer-java-android-activity-7186324617941200896-4m87?utm_source=share&utm_medium=member_desktop)
+- [Samuel Juma](https://www.goodreads.com/review/show/6671132447)
+- [Otamurod Safarov](https://www.linkedin.com/posts/otamurod-safarov_kotlin-androiddev-bookcompletion-activity-7214886703998631936-rSJ3?utm_source=share&utm_medium=member_desktop)
+- [Swamy Gangadhar Pavan Vulisetti](https://www.linkedin.com/posts/swamy-gangadhar-pavan-vulisetti_anamika-singh-i-am-writing-to-express-my-activity-7209977869626699776-JXZr?utm_source=share&utm_medium=member_desktop)
+- [Peter Gichia](https://www.linkedin.com/posts/peter-gichia-b014b5130_congratulations-harun-wangereka-on-getting-activity-7184898452860919809-XE7T?utm_source=share&utm_medium=member_desktop)
+- [David Odari](https://www.linkedin.com/posts/david-odari-kiribwa-155613111_mastering-kotlin-for-android-14-build-powerful-activity-7183398208641863681-HZ89?utm_source=share&utm_medium=member_desktop)
+- [Selen Demir](https://www.linkedin.com/posts/selen-demir_mastering-kotlin-for-android-14-build-powerful-activity-7181890242851852288-24Cm?utm_source=share&utm_medium=member_desktop)
+
+
 ## Recent Work
 
 - [Now In Compose](https://www.uganda.droidcon.com/): This was a comprehensive workshop on Jetpack Compose done in Droidcon Uganda. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
