@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🤖 I'm Harun Wangereka, an Android Engineer also Google Developer Expert for Android. Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
+- 🤖 I'm Harun Wangereka, an Android Engineer and Google Developer Expert for Android. I am passionate about creating quality applications. Never tired of learning, building the tech community, and helping other developers upscale their skills. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
 
-- 👨🏽‍💻 Currently, I'm working at [Apollo Agriculture](https://www.apolloagriculture.com) In this role, we make financing for small-scale farmers accessible to everyone. I collaborate with a cross-functional team to define, design, and ship new features for the agent's app and agro-dealers app.
+- 👨🏽‍💻 Currently, I'm working at [Smile ID](https://usesmileid.com/) as a Senior Mobile Engineer. At Smile ID, we provide Africa's best KYC and identity verification service, helping millions of Africans easily prove their identities. I work with a cross-functional team to develop and maintain open-source mobile SDKs (Android, iOS, Flutter & React Native) that power KYC and Identity Verification services.
 
-- 👥 Currrently on the organizing committee for [Droidcon Kenya](https://droidcon.co.ke/), Leading the Speakers Team. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. Very active community member now and supports the current organizing team behind the scenes.
+- 👥 Currently helping make [Droidcon Kenya](https://droidcon.co.ke/) an amazing mobile conference. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. Very active community member now and supports the current organizing team behind the scenes.
 
 - 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as an Android Developer. I have given talks & sessions at the following events:
 
