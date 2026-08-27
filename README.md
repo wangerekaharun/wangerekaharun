@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤖 I'm Harun Wangereka, an Android Engineer and Google Developer Expert for Android. I'm passionate about creating quality applications. Never tired of learning, building the tech community, and helping other developers upskill their skills. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
+- 🤖 I'm Harun Wangereka, a Mobile Engineer and Google Developer Expert for Android. I'm passionate about creating quality applications. Never tired of learning, building the tech community, and helping other developers upskill. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
 
 - 👨🏽‍💻 Currently, I'm working at [Smile ID](https://usesmileid.com/) as a Senior Mobile Engineer. At Smile ID, we provide Africa's best KYC and identity verification service, helping millions of Africans easily prove their identities. I work with a cross-functional team to develop and maintain open-source mobile SDKs (Android, iOS, Flutter & React Native) that power KYC and Identity Verification services.
 
