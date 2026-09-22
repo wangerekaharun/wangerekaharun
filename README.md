@@ -1,197 +1,260 @@
-## Hi there 👋
+<div align="center">
 
-- 🤖 I'm Harun Wangereka, a Mobile Engineer and Google Developer Expert for Android. I'm passionate about creating quality applications. Never tired of learning, building the tech community, and helping other developers upskill. I love contributing to open-source projects and writing technical articles on Android and Kotlin topics.
+# Harun Wangereka
 
-- 👨🏽‍💻 Currently, I'm working at [Smile ID](https://usesmileid.com/) as a Senior Mobile Engineer. At Smile ID, we provide Africa's best KYC and identity verification service, helping millions of Africans easily prove their identities. I work with a cross-functional team to develop and maintain open-source mobile SDKs (Android, iOS, Flutter & React Native) that power KYC and Identity Verification services.
+**Senior Mobile Engineer at [Smile ID](https://usesmileid.com/)**
+Google Developer Expert for Android · Co-organizer, [droidconKE](https://droidcon.co.ke/) × [flutterconKE](https://fluttercondev.ke/)
 
-- 👥 Currently helping make [Droidcon Kenya](https://droidcon.co.ke/) an amazing mobile conference. Fomerly was co-organizing [Android254](https://www.meetup.com/android254/) & [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 - 2022. A very active community member, now supporting the current organizing team behind the scenes.
+[![GDE](https://img.shields.io/badge/Google_Developer_Expert-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developers.google.com/community/experts/directory)
+[![Books](https://img.shields.io/badge/Published_Author-2_books-FF6F00?style=for-the-badge&logo=bookstack&logoColor=white)](#-books)
 
-- 🚀 I am very passionate about giving back to the community and sharing the knowledge and experiences I have over time as an Android Developer. I have given talks & sessions at the following events:
+[![GitHub followers](https://img.shields.io/github/followers/wangerekaharun?style=flat-square&color=3DDC84&logo=github&label=Followers)](https://github.com/wangerekaharun?tab=followers)
+[![X](https://img.shields.io/badge/@wangerekaharun-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wangerekaharun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun-wangereka-442b37b9/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@harunwangereka)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-009287?style=flat-square&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/wangerekaharun)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=wangerekaharun.wangerekaharun)
 
-   - Android254, Kotlin Kenya Meetups, Kotlin Everywhere, and droidconKE. 
-   - Devfest Nairobi, Devfest Kisumu, Devfest Eldoret & Devfest Dar-es-Salam.  
-   - Apps:Lab Tech Tours across over 6 universities in Kenya. 
-   - GeeksTalkThursday  
-   - I/O Extended events across various GDGs across the world.
+</div>
 
-Let's connect here:
+---
 
-<p align="left">
-  <a href="https://twitter.com/wangerekaharun">
-    <img src="https://img.shields.io/twitter/follow/wangerekaharun?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
-  </a>
-  <a href="https://github.com/wangerekaharun/wangerekaharun">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=wangerekaharun.wangerekaharun" alt="page views" />
-  </a>
- 
-  <a href="https://github.com/wangerekaharun?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wangerekaharun?color=green&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/harun-wangereka-442b37b9/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://medium.com/@harunwangereka">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-medium-blue">
-  </a>
-</p>
+## 👋 About
 
+I build mobile SDKs, write about Android, and spend a lot of time in rooms full of developers in Kenya.
 
-## ⚡️ Technologies
+At **Smile ID**, I work on the mobile SDKs that power KYC and identity verification across Africa, spanning **Android, iOS, Flutter and React Native**. Most of my day goes into camera and capture pipelines, CI/CD, and keeping four platforms at feature parity.
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
+Outside the day job I co-organize **droidconKE and flutterconKE**, Africa's largest mobile developer conference. I was previously a co-organizer of [Android254](https://www.meetup.com/android254/) and [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) from 2019 to 2022.
 
-## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangerekaharun&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangerekaharun" />
-</a>
+📍 Nairobi, Kenya
+
+---
+
+## 🛠 What I work with
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+| Area | What that means in practice |
+|---|---|
+| **Camera & capture** | CameraX, AVFoundation, ML Kit, real-time on-device vision |
+| **Cross-platform SDKs** | One feature set shipped four ways, without four codebases drifting apart |
+| **Architecture** | Compose, unidirectional state, offline-first, server-driven UI |
+| **Release engineering** | Gradle plugins, GitHub Actions, Firebase App Distribution |
+| **AI in Android** | Gemini in Android Studio, Firebase AI Logic, agent-assisted workflows |
+
+---
+
+## 🎤 Speaking & community
+
+Numbers via the GDE program: **35 talks · 6.2k attendees · 5 workshops · 344 trained · 16 mentees**. GDE since October 2021.
+
+### Recent sessions
+
+| Date | Session | Where |
+|---|---|---|
+| Sep 2026 | **Get Started on Android in 2026** | GDG On Campus Baraton |
+| Jun 2026 | **Inside KotlinConf 2026: Kotlin, Compose & Multiplatform** | Daystar University, Nairobi |
+| May 2026 | **Offline First Architecture** | [Android Developers Office Hours](https://www.youtube.com/@AndroidDevelopers) |
+| Apr 2026 | **Portfolio Development and Landing Your First Internship** | Nairobi |
+| Mar 2026 | **From Hello World to Earning** | Nairobi |
+| Mar 2026 | **Building Intelligent Camera Experiences on Android** (workshop) | Kisumu |
+| Nov 2025 | **Mastering Text Input in Compose** | Mombasa |
+| Jul 2025 | **What's New in Android 2025** | Nairobi & Nyeri |
+
+> 🎥 **Offline First Architecture** on the official Android Developers channel is the one I'm proudest of. 7.2k views and counting.
+
+<details>
+<summary><b>Earlier talks and sessions</b></summary>
 
 <br>
 
-## Second Book, Mastering Kotlin for Android 14
+- [Recomposition Roundup: All You Need to Know](https://speakerdeck.com/wangerekaharun/recomposition-roundup-all-you-need-to-know) — DevFest Pwani. Why optimizing recompositions matters, unstable classes and lambdas, LazyList performance, and how modifiers affect recomposition behaviour.
+- [Now In Compose](https://www.uganda.droidcon.com/) — Droidcon Uganda workshop on unidirectional state management, testing, performance, navigation and theming in production Compose.
+- [Devfest Nairobi Android Keynote](https://speakerdeck.com/wangerekaharun/devfest-nairobi-android-keynote)
+- [Now In Compose](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-google-io-extended-2023-kisumu/) — I/O Extended, GDG Kisumu
+- [KotlinConf '23 — Transforming Farmers' Lives Using Android in Kenya](https://youtu.be/UwNQgu-il4M/) — offline-first, low-memory devices, and server-driven UI with Compose at Apollo Agriculture.
+- [Kotlin Conf '23 Overview](https://speakerdeck.com/wangerekaharun/kotlin-conf-23) — Android254 & Kotlin Kenya, Nairobi edition
+- [Getting Started and Growing as an Android Developer](https://speakerdeck.com/wangerekaharun/getting-started-and-growing-as-an-android-developer) — GDSC USIU
+- [A Deep Dive and Building an Outstanding Career in Mobile Development](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development) — with [Valentine Rutto](https://twitter.com/valentinerutto), Lux Academy
+- [View Models, States and Flows in Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-mount-kenya-university-presents-android-development-1/) — GDSC Mount Kenya University
+- [Jetpack Compose: Display Lists and Material Design 3](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-jetpack-compose-display-lists-and-use-of-material-design/) — GDSC Kabarak
+- [Getting Started with Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-meru-university-of-science-and-technology-presents-getting-started-with-jetpack-compose/) — GDSC Meru & Chuka
+- [From Android Developer to Published Author](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-from-android-developer-to-published-author-a-journey-in-technical-writing/) — GDSC Kabarak
+- [Google I/O First Impressions Livecast](https://www.kodeco.com/40076557-google-i-o-first-impressions-livecast) — Kodeco
+- [SSA Students Summit 2023: Career Panel on Android](https://youtu.be/fpI6P56RF6U?list=PLg9VWCOZbXgtPIG1y9rBSyuXrZPrmWdAn) — with [Eric Ampire](https://twitter.com/eric_ampire) and [Beatrice Kinya](https://twitter.com/B__Kinya)
+- [How to Become a GDE: Making it in Tech](https://twitter.com/SaruniBM/status/1678405860492468226) — with [Hannah Olukoye](https://twitter.com/hannah_omu) and [Wayne Gakuo](https://twitter.com/wayne_gakuo)
+- [Balancing Technical Accuracy and Simplicity in Technical Writing](https://twitter.com/i/spaces/1YqxoAAQwpMGv?s=20) — Technier School
+- [IndustryExpertsTalk: Technical Writing 101](https://twitter.com/lux_academy/status/1681910327414251523?s=20) — Lux Tech Academy
 
-Exciting news! My second book, "Mastering Kotlin for Android 14," has finally been released! 🥳 It's been an incredible journey working on this project over the past year. Dive into this book to discover essential features where you'll apply industry-best practices and master key skills. Explore techniques for publishing, monitoring, and enhancing app metrics on the Google Play Store. Uncover advanced debugging methods to detect leaks, inspect network calls, and explore your app's local database for comprehensive app development insights.
+Also: Android254, Kotlin Kenya, Kotlin Everywhere, droidconKE, DevFest Nairobi / Kisumu / Eldoret / Dar es Salaam, Apps:Lab Tech Tours across 6+ Kenyan universities, GeeksTalkThursday, and I/O Extended events worldwide.
 
-Here’s a glimpse of what you'll learn: 
+</details>
 
-✅ Build beautiful, responsive, and accessible UIs with Jetpack Compose.
+---
 
-✅ Explore various app architectures and optimize them for better performance.
+## 📚 Books
 
-✅ Implement unit and instrumentation tests for robust app development.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-✅ Learn how to publish, monitor, and improve app performance on the Google Play Store.
+### Mastering Kotlin for Android 14
+*Packt, 2024*
 
-✅ Implement CI/CD with GitHub Actions and distribute test builds using Firebase App Distribution.
+Build beautiful, responsive and accessible UIs with Compose. Explore app architectures and optimize them. Write unit and instrumentation tests. Publish, monitor and improve performance on Play. Set up CI/CD with GitHub Actions and Firebase App Distribution.
 
-✅ Develop market-ready apps, implement effective testing strategies, address issues, and reach your target audience effortlessly.
+<details>
+<summary>Reviews</summary>
 
-✅ And much more to streamline your app development journey!
-
-![3d mockup Kotlin title](https://github.com/wangerekaharun/wangerekaharun/assets/15122455/60a2b7f1-4cf4-4c24-9689-6b42d705e454)
-
-
-### Reviews of the book
-- [Beatrice Kinya](https://www.linkedin.com/posts/beatrice-kinya-93307514b_kotlin-androiddev-activity-7228473264065417216-Py0O?utm_source=share&utm_medium=member_desktop)
-- [Charles Kagiri](https://www.linkedin.com/pulse/mastering-kotlin-android-14-book-review-kagiri-charles-bttze/?trackingId=p4GPUEiUSTaDOXjXT64pJA%3D%3D)
-- [Nav Singh](https://www.linkedin.com/posts/navczydev_android-androiddev-kotlin-activity-7219906356986687488-XnBt?utm_source=share&utm_medium=member_desktop)
-- [Thomas Künneth](https://www.linkedin.com/pulse/book-review-mastering-kotlin-android-14-thomas-k%C3%BCnneth-lbttc/?trackingId=dedZhU9fQhi3Jk7x7iRckw%3D%3D)
-- [Nav Singh](https://www.linkedin.com/posts/navczydev_developer-java-android-activity-7186324617941200896-4m87?utm_source=share&utm_medium=member_desktop)
+- [Thomas Künneth](https://www.linkedin.com/pulse/book-review-mastering-kotlin-android-14-thomas-k%C3%BCnneth-lbttc/)
+- [Charles Kagiri](https://www.linkedin.com/pulse/mastering-kotlin-android-14-book-review-kagiri-charles-bttze/)
+- [Beatrice Kinya](https://www.linkedin.com/posts/beatrice-kinya-93307514b_kotlin-androiddev-activity-7228473264065417216-Py0O)
+- [Nav Singh](https://www.linkedin.com/posts/navczydev_android-androiddev-kotlin-activity-7219906356986687488-XnBt)
 - [Samuel Juma](https://www.goodreads.com/review/show/6671132447)
-- [Otamurod Safarov](https://www.linkedin.com/posts/otamurod-safarov_kotlin-androiddev-bookcompletion-activity-7214886703998631936-rSJ3?utm_source=share&utm_medium=member_desktop)
-- [Swamy Gangadhar Pavan Vulisetti](https://www.linkedin.com/posts/swamy-gangadhar-pavan-vulisetti_anamika-singh-i-am-writing-to-express-my-activity-7209977869626699776-JXZr?utm_source=share&utm_medium=member_desktop)
-- [Peter Gichia](https://www.linkedin.com/posts/peter-gichia-b014b5130_congratulations-harun-wangereka-on-getting-activity-7184898452860919809-XE7T?utm_source=share&utm_medium=member_desktop)
-- [David Odari](https://www.linkedin.com/posts/david-odari-kiribwa-155613111_mastering-kotlin-for-android-14-build-powerful-activity-7183398208641863681-HZ89?utm_source=share&utm_medium=member_desktop)
-- [Selen Demir](https://www.linkedin.com/posts/selen-demir_mastering-kotlin-for-android-14-build-powerful-activity-7181890242851852288-24Cm?utm_source=share&utm_medium=member_desktop)
+- [Otamurod Safarov](https://www.linkedin.com/posts/otamurod-safarov_kotlin-androiddev-bookcompletion-activity-7214886703998631936-rSJ3)
+- [Peter Gichia](https://www.linkedin.com/posts/peter-gichia-b014b5130_congratulations-harun-wangereka-on-getting-activity-7184898452860919809-XE7T)
+- [David Odari](https://www.linkedin.com/posts/david-odari-kiribwa-155613111_mastering-kotlin-for-android-14-build-powerful-activity-7183398208641863681-HZ89)
 
+</details>
 
-## Recent Work
-- [Save User State](https://www.kodeco.com/android/paths/multiscreen-app/44884662-save-user-state): Saving user state is critical to Android development. This tutorial covers the different persistence mechanisms available, including DataStore, Android Files, and Room Database, and how to select the appropriate one based on a given situation. Learners learn how to save simple data using DataStore, understand the different types of storage available on Android, save and read data from Android Files, and work with Room Database to perform CRUD operations.
-- [Recomposition Roundup: All You Need to Know](https://speakerdeck.com/wangerekaharun/recomposition-roundup-all-you-need-to-know) I did this session at DevFest Pwani where I shared why optimizing recompositions is crucial for delivering smooth and efficient user experiences. This technical session explored common pitfalls developers encounter when working with recompositions in Jetpack Compose. We explored the impact of unstable classes, including external classes and lambdas, on unintended recompositions. Additionally, we discussed performance challenges associated with LazyList, columns, continuously changing state, and the role of modifiers in affecting recomposition behavior.
+</td>
+<td width="50%" valign="top">
 
-- [Now In Compose](https://www.uganda.droidcon.com/): This was a comprehensive workshop on Jetpack Compose done in Droidcon Uganda. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input.The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
-- [Devfest Nairobi Android Keynote](https://speakerdeck.com/wangerekaharun/devfest-nairobi-android-keynote): I shared my insights on the latest trends and developments in the Android ecosystem.
-- [Now In Compose](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-google-io-extended-2023-kisumu/): This was a comprehensive workshop on Jetpack Compose done in IOExtended  by GDG Kisumu. It focused on best practices for unidirectional state management and tips for using Compose in production. Participants learned efficient state handling, testing methodologies, performance optimization, navigation, theming, and handling user input. The workshop aimed to empower developers to build maintainable, scalable, and performant UIs using Jetpack Compose.
-- [Balancing Technical Accuracy and Simplicity in Technical Writing](https://twitter.com/i/spaces/1YqxoAAQwpMGv?s=20) In this Twitter space hosted by [Jemimmah](https://twitter.com/kavyu_jemimah) from Technier School, I shared my journey in technical writing, the tools one needs as a technical writer, and how to balance technical accuracy and simplicity in technical writing.
-- [IndustryExpertsTalk: Technical writing 101](https://twitter.com/lux_academy/status/1681910327414251523?s=20) In this Twitter Space hosted by [Lux Tech Academy](https://twitter.com/lux_academy), I together with my fellow co-speaker [Bonnie were](https://twitter.com/The_GreatBonnie) sharing our experiences in technical writing from how to get started, and how to improve technical skills. The host, Daisy has a number of questions about technical writing and documentation, which we were able to answer through the space, together with questions from listeners 
-- [How to become a GDE: Making it in Tech Series](https://twitter.com/SaruniBM/status/1678405860492468226) This was a Twitter Space Hosted by [Saruni](https://twitter.com/SaruniBM) & [Charity](https://twitter.com/CharityKith) where [Hannah Olukoye(Android GDE),](https://twitter.com/hannah_omu) [Wayne Gakuo (Angular GDE)](https://twitter.com/wayne_gakuo), and I talked about the Google Developer Program, how one can become one, benefits, and our experiences being GDEs. 
-- [View Models, States, and Flows in Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-mount-kenya-university-presents-android-development-1/)This was a live coding session with GDSC Mount Kenya University, where I did a code lab on how to use  View Models, States, and Flows in Jetpack Compose using a Login Screen app in Jetpack Compose. I shared and showed some of the recommended practices in handling state in Jetpack Compose 
-- [Google I/O First Impressions Livecast](https://www.kodeco.com/40076557-google-i-o-first-impressions-livecast) - Together with the Android team members at Kodeco, we gave the first impressions from Google I/O announcements. We discussed the cool announcements and things that we found interesting from the Keynote.
-- [Kotlin Conf '23 Overview](https://speakerdeck.com/wangerekaharun/kotlin-conf-23) This session was done at Android254 & Kotlin Kenya Kotlin Conf Global event, Nairobi edition on 22nd April 2023. In my presentation, I highlighted the key announcements from KotlinConf'23 and my experience attending & speaking at my first KotlinConf.
-- [SSA Students Summit 2023 | Career Panel on Android Development](https://youtu.be/fpI6P56RF6U?list=PLg9VWCOZbXgtPIG1y9rBSyuXrZPrmWdAn) It was a panel session where [Eric Ampire(Android GDE)](https://twitter.com/eric_ampire), [Beatrice Kinya](https://twitter.com/B__Kinya) and I were answering questions about android development at the first-ever SSA Students summit. 
-- [Getting Started with Jetpack Compose](https://gdsc.community.dev/events/details/developer-student-clubs-meru-university-of-science-and-technology-presents-getting-started-with-jetpack-compose/) In this session hosted by GDSC Meru & Chuka University, I covered an introductory session to the attendees about Compose. Covering the essentials, compose layouts and modifiers. I did a demo for creating a compose project from scratch and explained the different things that are created and also went ahead to show how to create lists in compose. Dived deep into using LazyColumn, LazyVerticalGrid and LazyHorizontalGrid.
-- [Getting Started and Growing as an Android Developer](https://speakerdeck.com/wangerekaharun/getting-started-and-growing-as-an-android-developer). In this session hosted by Google Developer Student Club USIU, I talked about how to grow yourself as an Android developer and shared tips from my experience in interviews and general career growth. I shared the roadmap for Android Development in 2023, highlighting some key Jetpack Libraries as well. I shared about the GDE program and what people can do to join.
-- [Jetpack Compose: Display Lists and use Material Design 3](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-jetpack-compose-display-lists-and-use-of-material-design/) In this session hosted by Google Developer Student Club Kabarak University, I walked the attendees through how to create lists using Jetpack Compose using the Lazy Column, LazyVerticalGrid & LazyHorizontalGrid. I covered the best practices when using lists and also talked about Material Design 3 and some of the features it has to offer.
-- [From Android Developer to Published Author: A Journey in Technical Writing](https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-from-android-developer-to-published-author-a-journey-in-technical-writing/) In this session hosted by Google Developer Student Clubs - Kabarak University, I shared my journey in technical writing, from my early days as an Android developer to becoming a published author. I discussed the different approaches to technical writing and offered tips on how to grow in the field, whether you're an Android developer or simply an enthusiast.
-- [A deep dive and building an outstanding career in mobile applications development.](https://speakerdeck.com/wangerekaharun/a-deep-dive-and-building-an-outstanding-career-in-mobile-applications-development): [Valentine Rutto](https://twitter.com/valentinerutto) & I shared tips from our experiences on how to build an outstanding career in mobile applications development at the Lux Academy Industry Experts Physical Meetup held in February 2023.
+### Saving Data on Android, 2nd Edition
+*raywenderlich.com / Kodeco*
 
-- ### 🎥 Video Courses
-- - [Your Second Kotlin Android App](https://www.kodeco.com/38052357-your-second-kotlin-android-app): I worked on this course as the Materials Author. In this course, viewers level up their Android skills by writing a task list managing apps entirely in Kotlin and Jetpack Compose. In it, they learn about Composables, LazyLayouts, saving data, integrating navigation components in Compose, and Android Jetpack
+My first book. Everything you need to know about persisting data on Android, locally and remotely.
+
+[Read it →](https://www.raywenderlich.com/books/saving-data-on-android)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github.com/wangerekaharun/wangerekaharun/assets/15122455/60a2b7f1-4cf4-4c24-9689-6b42d705e454" width="480" alt="Mastering Kotlin for Android 14" />
+</div>
+
+---
+
+## ✍️ Writing
+
+<details>
+<summary><b>Courses & tutorials</b> — Kodeco</summary>
+
+<br>
+
+**Video courses**
+- [Your Second Kotlin Android App](https://www.kodeco.com/38052357-your-second-kotlin-android-app) — materials author. A task-list app entirely in Kotlin and Compose: composables, lazy layouts, saving data, navigation.
 - [Deep Links In Android](https://www.raywenderlich.com/20868773-deep-links-in-android)
-## Older Contributions
 
-### Book Author, [Saving Data In Android, Second Edition](https://www.raywenderlich.com/books/saving-data-on-android)
+**Written**
+- [Save User State](https://www.kodeco.com/android/paths/multiscreen-app/44884662-save-user-state) — DataStore, Android Files and Room, and how to pick between them.
+- [Maps Compose Library Tutorial for Android](https://www.kodeco.com/34720426-maps-compose-library-tutorial-for-android-getting-started)
+- [Material You in Jetpack Compose](https://www.raywenderlich.com/32081822-material-you-in-jetpack-compose)
+- [Android App Bundles: Play Feature Delivery](https://www.raywenderlich.com/27947850-android-app-bundles-play-feature-delivery)
+- [Integrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
+- [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
+- [Deep Links in Android: Getting Started](https://www.raywenderlich.com/18330247-deep-links-in-android-getting-started)
+- [Paging Library for Android With Kotlin](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists)
+- [Database Views with Room](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)
+- [Beyond the Basics with Sealed Classes](https://www.raywenderlich.com/7547739-kotlin-and-android-beyond-the-basics-with-sealed-classes)
 
-Really excited and proud to share my first book, Saving Data in Android, Second Edition. It was an honor to work on the Second Edition with amazing people at raywenderlich.com. 
-With great co-authors, editors, and the raywenderlich.com team.
- 
-If you've been looking for ways you can save data on Android, this is your book, as it covers everything you need to know about saving data both locally and remotely.
+</details>
 
- 
-Looking for ways you can save data on Android? This is your book, as it covers everything you need to know about saving data both locally and remotely.
+<details>
+<summary><b>Articles</b> — Stream</summary>
 
-### YouTube Presentation Videos
+<br>
 
-- [Releasing Apps on Playstore](https://youtu.be/ajWQmWxT5kc) 
-- [Pricing Software](https://youtu.be/Y0g_2Sx5Olc) 
-- [Understanding Relationships in Room #1](https://youtu.be/Ocw-G7Cmp9A) 
-- [Understanding Relationships in Room #2](https://youtu.be/MZkGzs7r088) 
-
-### 🔖 Technical Articles
-
-#### [Stream](https://getstream.io/)
 - [All About Reactions with the Stream Chat Android SDK](https://getstream.io/blog/android-sdk-reactions/)
 - [Location Sharing With Custom Attachments on Android](https://getstream.io/blog/android-location-sharing/)
 - [Sending Custom Chat Attachments With Jetpack Compose](https://getstream.io/blog/custom-attachments-jetpack-compose/)
 - [Customizing the Compose Chat SDK with ChatTheme](https://getstream.io/blog/compose-chat-chattheme/)
 
-#### [Kodeco (Previously raywenderlich.com)](https://www.kodeco.com/home)
-- [Database Views with Room For Android](https://www.raywenderlich.com/10194335-database-views-with-room-for-android)
-- [Beyond the Basics with Sealed Classes](https://www.raywenderlich.com/7547739-kotlin-and-android-beyond-the-basics-with-sealed-classes)
-- [Paging Library for Android With Kotlin: Creating Infinite Lists](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists)
-- [Deep Links in Android: Getting Started](https://www.raywenderlich.com/18330247-deep-links-in-android-getting-started)
-- [Scheduling Tasks With Android WorkManager](https://www.raywenderlich.com/20689637-scheduling-tasks-with-android-workmanager)
-- [Intergrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
-- [Android App Bundles: Play Feature Delivery](https://www.raywenderlich.com/27947850-android-app-bundles-play-feature-delivery)
-- [Material You in Jetpack Compose](https://www.raywenderlich.com/32081822-material-you-in-jetpack-compose)
-- [Maps Compose Library Tutorial for Android: Getting Started](https://www.kodeco.com/34720426-maps-compose-library-tutorial-for-android-getting-started)
+</details>
 
-#### Medium
+<details>
+<summary><b>Articles</b> — Medium</summary>
+
+<br>
+
 - [Technical Writing: How Do I Get Better at it?](https://harunwangereka.medium.com/technical-writing-how-do-i-get-better-at-it-4af86aa49a38)
-- [A Day with an Elephant in the Room: Configuring Gradle Plugins.](https://medium.com/@harunwangereka/a-day-with-an-elephant-in-the-room-configuring-gradle-plugins-3331b0be64c7) 
-- [What's New in Android #2.](https://medium.com/@harunwangereka/whats-new-in-android-2-a-ton-of-updates-ba4f2804890c)  
-- [Kotlin One Year After - Lessons Learnt](https://medium.com/@harunwangereka/kotlin-one-year-after-lessons-learnt-1a9f0822f53c) 
-- [What's New in Android #1](https://medium.com/@harunwangereka/whats-new-in-android-a-technical-approach-bdb13d0a3ce) 
-- [Android Paging Library With Kotlin Coroutine](https://medium.com/@harunwangereka/android-paging-library-with-kotlin-coroutines-b96602e3fae3) 
-- [Building the DroidconKE app](https://medium.com/@harunwangereka/building-droidconke-android-app-5f91c406faac) 
-- [Android Background Services](https://medium.com/@harunwangereka/android-background-services-b5aac6be3f04) 
-- [Are you Productive or Just Busy](https://medium.com/@harunwangereka/are-you-productive-or-just-busy-69abecebf043) 
+- [A Day with an Elephant in the Room: Configuring Gradle Plugins](https://medium.com/@harunwangereka/a-day-with-an-elephant-in-the-room-configuring-gradle-plugins-3331b0be64c7)
+- [Kotlin One Year After: Lessons Learnt](https://medium.com/@harunwangereka/kotlin-one-year-after-lessons-learnt-1a9f0822f53c)
+- [What's New in Android #1](https://medium.com/@harunwangereka/whats-new-in-android-a-technical-approach-bdb13d0a3ce) · [#2](https://medium.com/@harunwangereka/whats-new-in-android-2-a-ton-of-updates-ba4f2804890c)
+- [Android Paging Library With Kotlin Coroutines](https://medium.com/@harunwangereka/android-paging-library-with-kotlin-coroutines-b96602e3fae3)
+- [Building the droidconKE App](https://medium.com/@harunwangereka/building-droidconke-android-app-5f91c406faac)
+- [Android Background Services](https://medium.com/@harunwangereka/android-background-services-b5aac6be3f04)
+- [Are you Productive or Just Busy?](https://medium.com/@harunwangereka/are-you-productive-or-just-busy-69abecebf043)
 
-### ⚡️ My Journey
-I am honored to have my journey as an Android Developer featured in [Built In Africa](https://www.builtinafrica.io/). It was amazing interviewing with [Nathan Hastings-Spaine](https://www.linkedin.com/in/nathanhs/) have the team write down my journey. Read the full story [here](https://www.builtinafrica.io/blog-post/harun-wangereka-appslab).
+</details>
 
-## 🚀 Google Developer Journey: November 2022
-Excited to be featured in the #DevJourney series by Google developers. Read the #DevJourney November issue to learn more:
-[Dev Journey](https://developers.googleblog.com/2022/10/developer-journey-november22.html).
+<details>
+<summary><b>YouTube</b></summary>
 
+<br>
 
-![FhOyqtIWIAIZh3Y](https://user-images.githubusercontent.com/15122455/207302185-ac9700ff-1ae8-45e5-921a-c8d75a79479b.jpg)
+- [Releasing Apps on Play Store](https://youtu.be/ajWQmWxT5kc)
+- [Pricing Software](https://youtu.be/Y0g_2Sx5Olc)
+- [Understanding Relationships in Room #1](https://youtu.be/Ocw-G7Cmp9A) · [#2](https://youtu.be/MZkGzs7r088)
 
+</details>
 
-## 🚀 Google Developer Journey: Women Tech Makers & Google Devs February 2022
+---
 
-- [WomenTechMakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)
-- [Google Devs](https://twitter.com/googledevs/status/1630659124978393101)
+## 🌟 Features & recognition
 
+<details>
+<summary><b>Where my work has been featured</b></summary>
 
-## 🚀 #TheAndroidShow by the Android Developer team at Google
+<br>
 
-Want to learn what it means to be a Google Developer Expert? Watch the #TheAndroidShow as Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez, Dinorah Tovar, and I share our experiences being a GDE and what it takes to be part of the program.
+- **[#TheAndroidShow](https://lnkd.in/dHaN45wb)** — joined Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez and Dinorah Tovar to talk about what being a GDE actually involves.
+- **[Google Developer Journey, November 2022](https://developers.googleblog.com/2022/10/developer-journey-november22.html)** — featured in the #DevJourney series.
+- **[Women Techmakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)** and **[Google Devs](https://twitter.com/googledevs/status/1630659124978393101)**, February 2022.
+- **[KotlinConf '23 Confersations](https://www.youtube.com/watch?v=eb7QNYJiUwE)** — interviewed by [Huyen Dao](https://twitter.com/queencodemonkey).
+- **[Built In Africa](https://www.builtinafrica.io/blog-post/harun-wangereka-appslab)** — my journey as an Android developer, written up by [Nathan Hastings-Spaine](https://www.linkedin.com/in/nathanhs/).
 
-Really excited to have been featured in the show. Being a GDE means consistently creating content, supporting the communities, and improving your skills.
+<img src="https://user-images.githubusercontent.com/15122455/207302185-ac9700ff-1ae8-45e5-921a-c8d75a79479b.jpg" width="420" alt="Google Developer Journey feature" />
 
-Many thanks to Yasmine Evjen, Lily Sheringham, Matt, Sonia Green, and the whole team for organizing this!
+</details>
 
-Watch the whole show here: https://lnkd.in/dHaN45wb
+---
 
-## 🚀 Kotlin Conf '23 Confersations
-Excited to have been interviewed by [Huyen Dao](https://twitter.com/queencodemonkey) at Kotlin Confersations ‘23. Talked about the stuff we do at [Apollo Agriculture](https://www.apolloagriculture.com/) and [droidconke](https://droidcon.co.ke/) as well. Watch the full interview [here](https://www.youtube.com/watch?v=eb7QNYJiUwE).
+## 📊 GitHub
 
-## 🚀 [KotlinConf '23 - Transforming Farmer's Lives Using Android in Kenya](https://youtu.be/UwNQgu-il4M/)
+<div align="center">
 
-The session covered how we at Apollo Agriculture change the lives of farmers using Android. This is the story of how Apollo Agriculture relies on two Android apps, entirely written in Kotlin, are offline first, and heavily rely on Server Side Driven UI to render the UI components.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wangerekaharun&count_private=true&show_icons=true&hide_border=true&theme=github_dark&icon_color=3DDC84&title_color=3DDC84" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wangerekaharun&count_private=true&show_icons=true&hide_border=true&icon_color=3DDC84&title_color=3DDC84" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangerekaharun&layout=compact&hide_border=true&theme=github_dark&title_color=3DDC84" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangerekaharun&layout=compact&hide_border=true&title_color=3DDC84" alt="Top languages" />
+</picture>
 
-I dived deeply into the challenges we face when developing apps for devices with low memory, low internet bandwidth, an offline-first approach, and some of the critical lessons we've learned so far. This session shows how our server-side UI approach with Jetpack Compose works, the reasons that made us adapt this, and the implementation details of our stateful approach in building UI Components with Compose. Additionally, the session covers the tools we use to make this possible: an internal tool called "Choice Expressions" and an implementation of JSON Schema, both used to build UIs from a set of conditions.
+</div>
 
+---
+
+<div align="center">
+
+**Building in public from Nairobi.**
+If something here is useful to you, that is the whole point.
+
+</div>
