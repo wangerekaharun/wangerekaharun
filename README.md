@@ -59,28 +59,32 @@ Outside the day job I co-organize **droidconKE and flutterconKE**, Africa's larg
 
 ## 🎤 Speaking & community
 
-Numbers via the GDE program: **35 talks · 6.2k attendees · 5 workshops · 344 trained · 16 mentees**. GDE since October 2021.
+Numbers via the GDE program: **38 talks · 6.4k attendees · 6 workshops · 494 trained · 16 mentees**. GDE since October 2021.
 
 ### Recent sessions
 
 | Date | Session | Where |
 |---|---|---|
+| Nov 2026 | **[Engineering memory-performant Android apps](https://github.com/wangerekaharun/kisumu-workshop)** (workshop) | DevFest Kisumu |
+| Nov 2026 | **SSA Roundtable: Android in the Agentic Era** | GDG Pwani, Mombasa |
+| Nov 2026 | **Contracts, not conventions: keeping one promise across Android, iOS, Flutter and React Native** | Fluttercon × Droidcon Kenya, Nairobi |
+| Nov 2026 | **18,000 device types, one camera pipeline** | Google SSA Developer Day, Nairobi |
 | Sep 2026 | **Get Started on Android in 2026** | GDG On Campus Baraton |
 | Jun 2026 | **Inside KotlinConf 2026: Kotlin, Compose & Multiplatform** | Daystar University, Nairobi |
 | May 2026 | **Offline First Architecture** | [Android Developers Office Hours](https://www.youtube.com/@AndroidDevelopers) |
-| Apr 2026 | **Portfolio Development and Landing Your First Internship** | Nairobi |
-| Mar 2026 | **From Hello World to Earning** | Nairobi |
-| Mar 2026 | **Building Intelligent Camera Experiences on Android** (workshop) | Kisumu |
-| Nov 2025 | **Mastering Text Input in Compose** | Mombasa |
-| Jul 2025 | **What's New in Android 2025** | Nairobi & Nyeri |
 
-> 🎥 **Offline First Architecture** on the official Android Developers channel is the one I'm proudest of. 7.2k views and counting.
+> 🎥 **Offline First Architecture** on the official Android Developers channel is the one I'm proudest of. 7.6k views and counting.
 
 <details>
 <summary><b>Earlier talks and sessions</b></summary>
 
 <br>
 
+- **Portfolio Development and Landing Your First Internship** — Nairobi, April 2026.
+- **From Hello World to Earning** — Nairobi, March 2026.
+- **Building Intelligent Camera Experiences on Android** — workshop, Kisumu, March 2026.
+- **Mastering Text Input in Compose** — Mombasa, November 2025.
+- **What's New in Android 2025** — Nairobi and Nyeri, July 2025.
 - [Recomposition Roundup: All You Need to Know](https://speakerdeck.com/wangerekaharun/recomposition-roundup-all-you-need-to-know) — DevFest Pwani. Why optimizing recompositions matters, unstable classes and lambdas, LazyList performance, and how modifiers affect recomposition behaviour.
 - [Now In Compose](https://www.uganda.droidcon.com/) — Droidcon Uganda workshop on unidirectional state management, testing, performance, navigation and theming in production Compose.
 - [Devfest Nairobi Android Keynote](https://speakerdeck.com/wangerekaharun/devfest-nairobi-android-keynote)
@@ -223,6 +227,7 @@ My first book. Everything you need to know about persisting data on Android, loc
 
 <br>
 
+- **[How Smile ID scaled identity verification to 18,000+ Android device types with CameraX](https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification)** — Android Developers Blog case study, November 2026, on the camera work behind our Android SDKs.
 - **[#TheAndroidShow](https://lnkd.in/dHaN45wb)** — joined Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez and Dinorah Tovar to talk about what being a GDE actually involves.
 - **[Google Developer Journey, November 2022](https://developers.googleblog.com/2022/10/developer-journey-november22.html)** — featured in the #DevJourney series.
 - **[Women Techmakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)** and **[Google Devs](https://twitter.com/googledevs/status/1630659124978393101)**, February 2022.
