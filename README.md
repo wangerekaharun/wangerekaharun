@@ -222,12 +222,13 @@ My first book. Everything you need to know about persisting data on Android, loc
 
 ## 🌟 Features & recognition
 
+📱 **[How Smile ID scaled identity verification to 18,000+ Android device types with CameraX](https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification)** — an Android Developers Blog case study (November 2026) on the camera work behind our Android SDKs, made with Google's Android DevRel team.
+
 <details>
 <summary><b>Where my work has been featured</b></summary>
 
 <br>
 
-- **[How Smile ID scaled identity verification to 18,000+ Android device types with CameraX](https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification)** — Android Developers Blog case study, November 2026, on the camera work behind our Android SDKs.
 - **[#TheAndroidShow](https://lnkd.in/dHaN45wb)** — joined Madona S. Wambua, Ahmed Tikiwa, Annyce Davis, Zarah Dominguez and Dinorah Tovar to talk about what being a GDE actually involves.
 - **[Google Developer Journey, November 2022](https://developers.googleblog.com/2022/10/developer-journey-november22.html)** — featured in the #DevJourney series.
 - **[Women Techmakers](https://twitter.com/WomenTechmakers/status/1630617357591756811)** and **[Google Devs](https://twitter.com/googledevs/status/1630659124978393101)**, February 2022.
